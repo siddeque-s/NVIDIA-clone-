@@ -1,0 +1,20 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+
+#navDiv1{
+    height: 400px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
+#navDiv1 select{
+    height: 35px;
+}
+
+#NavContinue{
+    
+}
