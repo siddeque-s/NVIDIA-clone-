@@ -1,6 +1,7 @@
 *{
     padding: 0;
     margin: 0;
+     font-family: "Noto Sans Display", sans-serif;
 }
 
 
@@ -18,3 +19,11 @@
 /* #NavContinue{
 
 } */
+#navbar .parent{
+    height: 200px;
+}
+
+#NavDiv img{
+    height: 100%;
+    
+}
