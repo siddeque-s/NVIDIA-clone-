@@ -1,10 +1,8 @@
-*{
-    padding: 0;
-    margin: 0;
-     font-family: "Noto Sans Display", sans-serif;
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Noto Sans Display", sans-serif;
 }
-
-
 
 /* #navDiv1{
     height: 400px;
@@ -19,11 +17,35 @@
 /* #NavContinue{
 
 } */
-#navbar .parent{
-    height: 200px;
+.parent {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 15px;
+}
+.parent a {
+  text-decoration: none;
+  color: black;
 }
 
-#NavDiv img{
-    height: 100%;
-    
+.navLogo img {
+  height: 100%;
+}
+.navList {
+  list-style: none;
+  display: flex;
+  margin: 0px 120px;
+  align-items: center;
+}
+.navList li {
+  margin-right: 25px;
+}
+.navList a {
+  font-size: 17px;
+}
+.navList i {
+}
+
+#image1 {
+  height: 30px;
 }
