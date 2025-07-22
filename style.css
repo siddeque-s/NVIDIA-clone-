@@ -48,3 +48,16 @@
 #image1 {
   height: 30px;
 }
+
+
+
+
+/* section2 */
+#sect2Parent{
+  display: flex;
+
+}
+.Sect2divs{
+  width: 45%;
+}
+
