@@ -54,10 +54,18 @@
 
 /* section2 */
 #sect2Parent{
+  margin-left: 120px;
   display: flex;
 
 }
 .Sect2divs{
   width: 45%;
+}
+.Sect2divs h1{
+  font-size: 30px;
+  padding-bottom: 15px;
+}
+.Sect2divs p{
+  line-height: 30px;
 }
 
