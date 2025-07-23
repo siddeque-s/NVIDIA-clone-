@@ -92,3 +92,16 @@
   display: flex;
   margin-left: 450px;
 }
+
+.section2LeftDown{
+  display: flex;
+}
+
+.Sectio2divImage{
+  width: 80%;
+  height: 700px;
+}
+.section2LeftDown img{
+  width: 100%;
+
+}
